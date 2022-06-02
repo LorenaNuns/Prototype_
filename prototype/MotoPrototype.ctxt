@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MotoPrototype
+comment1.params=
+comment1.target=java.lang.String\ exibirInfo()
+comment2.params=
+comment2.target=MotoPrototype\ clonar()
+comment3.params=
+comment3.target=double\ getValorCompra()
+comment4.params=valorCompra
+comment4.target=void\ setValorCompra(double)
+numComments=5

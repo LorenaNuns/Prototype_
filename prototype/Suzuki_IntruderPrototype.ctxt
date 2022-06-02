@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Suzuki_IntruderPrototype
+comment1.params=suzuki
+comment1.target=Suzuki_IntruderPrototype(Suzuki_IntruderPrototype)
+comment2.params=
+comment2.target=Suzuki_IntruderPrototype()
+comment3.params=
+comment3.target=java.lang.String\ exibirInfo()
+comment4.params=
+comment4.target=Suzuki_IntruderPrototype\ clonar()
+numComments=5

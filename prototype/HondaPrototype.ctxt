@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HondaPrototype
+comment1.params=honda
+comment1.target=HondaPrototype(HondaPrototype)
+comment2.params=
+comment2.target=HondaPrototype()
+comment3.params=
+comment3.target=java.lang.String\ exibirInfo()
+comment4.params=
+comment4.target=MotoPrototype\ clonar()
+numComments=5
